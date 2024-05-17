@@ -22,7 +22,7 @@ Citizen.CreateThread(function()
 		end)		
 		
 		-- print("Mise a jours de la nouriture")
-		Citizen.Wait(20000)
+		Citizen.Wait(500)
 	end
 end)
 
